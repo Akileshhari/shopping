@@ -7,6 +7,7 @@ import Footer from '../components/Footer';
 import Login from '../components/Login';
 
 
+
 function HomePage({ setModalOpen }) {
   useEffect(() => {
     const timer = setTimeout(() => {
